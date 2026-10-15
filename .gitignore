@@ -1,0 +1,23 @@
+# Compiled class files
+bin/
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# VS Code
+.vscode/
+
+# Operating System files
+Thumbs.db
+.DS_Store
